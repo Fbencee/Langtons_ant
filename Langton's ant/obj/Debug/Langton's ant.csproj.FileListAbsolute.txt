@@ -1,0 +1,20 @@
+C:\Users\FIB1MC\Desktop\Projects\Langton's ant\Langton's ant\obj\Debug\Langton's ant.csprojAssemblyReference.cache
+C:\Users\FIB1MC\Desktop\Projects\Langton's ant\Langton's ant\obj\Debug\Langton_s_ant.Form1.resources
+C:\Users\FIB1MC\Desktop\Projects\Langton's ant\Langton's ant\obj\Debug\Langton_s_ant.Properties.Resources.resources
+C:\Users\FIB1MC\Desktop\Projects\Langton's ant\Langton's ant\obj\Debug\Langton's ant.csproj.GenerateResource.cache
+C:\Users\FIB1MC\Desktop\Projects\Langton's ant\Langton's ant\obj\Debug\Langton's ant.csproj.CoreCompileInputs.cache
+C:\Users\FIB1MC\Desktop\Projects\Langton's ant\Langton's ant\bin\Debug\Langton's ant.exe.config
+C:\Users\FIB1MC\Desktop\Projects\Langton's ant\Langton's ant\bin\Debug\Langton's ant.exe
+C:\Users\FIB1MC\Desktop\Projects\Langton's ant\Langton's ant\bin\Debug\Langton's ant.pdb
+C:\Users\FIB1MC\Desktop\Projects\Langton's ant\Langton's ant\obj\Debug\Langton's ant.exe
+C:\Users\FIB1MC\Desktop\Projects\Langton's ant\Langton's ant\obj\Debug\Langton's ant.pdb
+\\BOSCH.COM\DfsRB\DfsHU\LOC\Mc\RBHM\Production\Tasks\TEF32_Attendance\TEF32_Attendance_Firtko_Bence\Dual\Egyeb_projektek\Langton's ant\Langton's ant\bin\Debug\Langton's ant.exe.config
+\\BOSCH.COM\DfsRB\DfsHU\LOC\Mc\RBHM\Production\Tasks\TEF32_Attendance\TEF32_Attendance_Firtko_Bence\Dual\Egyeb_projektek\Langton's ant\Langton's ant\bin\Debug\Langton's ant.exe
+\\BOSCH.COM\DfsRB\DfsHU\LOC\Mc\RBHM\Production\Tasks\TEF32_Attendance\TEF32_Attendance_Firtko_Bence\Dual\Egyeb_projektek\Langton's ant\Langton's ant\bin\Debug\Langton's ant.pdb
+\\BOSCH.COM\DfsRB\DfsHU\LOC\Mc\RBHM\Production\Tasks\TEF32_Attendance\TEF32_Attendance_Firtko_Bence\Dual\Egyeb_projektek\Langton's ant\Langton's ant\obj\Debug\Langton's ant.csproj.AssemblyReference.cache
+\\BOSCH.COM\DfsRB\DfsHU\LOC\Mc\RBHM\Production\Tasks\TEF32_Attendance\TEF32_Attendance_Firtko_Bence\Dual\Egyeb_projektek\Langton's ant\Langton's ant\obj\Debug\Langton_s_ant.Form1.resources
+\\BOSCH.COM\DfsRB\DfsHU\LOC\Mc\RBHM\Production\Tasks\TEF32_Attendance\TEF32_Attendance_Firtko_Bence\Dual\Egyeb_projektek\Langton's ant\Langton's ant\obj\Debug\Langton_s_ant.Properties.Resources.resources
+\\BOSCH.COM\DfsRB\DfsHU\LOC\Mc\RBHM\Production\Tasks\TEF32_Attendance\TEF32_Attendance_Firtko_Bence\Dual\Egyeb_projektek\Langton's ant\Langton's ant\obj\Debug\Langton's ant.csproj.GenerateResource.cache
+\\BOSCH.COM\DfsRB\DfsHU\LOC\Mc\RBHM\Production\Tasks\TEF32_Attendance\TEF32_Attendance_Firtko_Bence\Dual\Egyeb_projektek\Langton's ant\Langton's ant\obj\Debug\Langton's ant.csproj.CoreCompileInputs.cache
+\\BOSCH.COM\DfsRB\DfsHU\LOC\Mc\RBHM\Production\Tasks\TEF32_Attendance\TEF32_Attendance_Firtko_Bence\Dual\Egyeb_projektek\Langton's ant\Langton's ant\obj\Debug\Langton's ant.exe
+\\BOSCH.COM\DfsRB\DfsHU\LOC\Mc\RBHM\Production\Tasks\TEF32_Attendance\TEF32_Attendance_Firtko_Bence\Dual\Egyeb_projektek\Langton's ant\Langton's ant\obj\Debug\Langton's ant.pdb
